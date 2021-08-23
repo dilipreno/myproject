@@ -34,3 +34,14 @@ service httpd start
 yum remove httpd
 
 yum search java 
+
+
+-----------------
+git log 
+git log --oneline 
+
+Undo Chnages
+before staging :
+
+after staging
+after commit
