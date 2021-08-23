@@ -43,5 +43,6 @@ git log --oneline
 Undo Chnages
 before staging :
 
-after staging
-after commit
+after staging :
+
+after commit :
