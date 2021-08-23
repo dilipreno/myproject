@@ -1,0 +1,36 @@
+sudo -i to become root user in mac/linux
+top -> to keep session active in linux 
+
+linux cmd
+
+ls / -> root directory
+ ls /bin --> all cmd lines stores
+ ls /boot --> stores kernal
+ ls /dev --> hardwares releated 
+ ls /home --> home directory for every user
+ ls /lib -> various lib stored here
+ 
+ ls /mnt  -> mount usb /cd drive
+ 
+ ls /opt --> app binary stores
+ ls /proc --> currently ruunning kernal process 
+ ls /tmp
+ ls /usr
+ ls /var --> 
+ 
+ mkdir 
+ 
+ yum cmd to install software in machine 
+ 
+ yum repolist
+yum list installed 
+
+yum grouplist--> install as a group 
+
+yum install pkgname 
+
+yum install httpd
+service httpd start
+yum remove httpd
+
+yum search java 
